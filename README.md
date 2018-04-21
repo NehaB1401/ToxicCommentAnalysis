@@ -4,7 +4,7 @@ Our main focus is to explore the Deep Learning models to classify the comments i
 
 # Kaggle Challenge
 
-The Kaggle competition for toxic comment classification about detection of different types of toxic comments by classifying them into one or more labels from ‘toxic’, ‘severe_toxic’, ‘obscene’, ‘threat’, ‘insult’ and ‘identity_hate’.
+The Kaggle competition for toxic comment classification available at 'https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge' is about detection of different types of toxic comments by classifying them into one or more labels from ‘toxic’, ‘severe_toxic’, ‘obscene’, ‘threat’, ‘insult’ and ‘identity_hate’.
 The objective is to develop pre-defined models and improve their accuracy as compared to the outputs provided by Perspective API.
 
 # Data
