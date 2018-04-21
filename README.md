@@ -28,8 +28,8 @@ Analysis of all the 3 model performances are as shown below:
 
 Model | Embeddings | AUC | LOSS | Epoch
 --- | --- | --- | --- | ---
-RNN | Word | 0.98488 | 0.0616 | 2
-CNN | Word | 0.98603 | 0.0314 | 1
+RNN | Word | 0.98488 | 0.0616 | 1
+CNN | Word | 0.98603 | 0.0314 | 2
 CNN | Character | 0.95649 | 0.0875 | 1
 
 # Conclusion
