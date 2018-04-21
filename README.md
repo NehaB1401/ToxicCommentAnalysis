@@ -24,7 +24,16 @@ Three different models tested against this challange were:
 
 # Results
 
+Analysis of all the 3 model performances are as shown below:
 
+Model	    Embeddings	  AUC	        LOS
+RNN	      Word          0.98603	    0.0314 
+CNN     	Word	        0.98488	    0.0616 
+CNN     	Character 	  0.95649   	0.0875 
+
+
+
+By working with different types of Neural Network models with word embedding initializations, we could conclude which models may be better suited for the task of toxic comment classification. We found that the best model in our case was the CNN model with word embeddings. Although its performance accuracy is marginally better than the LSTM model, it could gain a better categorization of toxic comment accuracy. 
 
 # Run notebook
 
