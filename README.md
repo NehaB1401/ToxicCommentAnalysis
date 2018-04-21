@@ -26,11 +26,11 @@ Three different models tested against this challange were:
 
 Analysis of all the 3 model performances are as shown below:
 
-Model | Embeddings | AUC | LOS
---- | --- | --- | ---
-RNN | Word | 0.98603 | 0.0314 
-CNN | Word | 0.98488 | 0.0616
-CNN | Character | 0.95649 | 0.0875 
+Model | Embeddings | AUC | LOSS | Epoch
+--- | --- | --- | --- | ---
+RNN | Word | 0.98488 | 0.0616 | 2
+CNN | Word | 0.98603 | 0.0314 | 1
+CNN | Character | 0.95649 | 0.0875 | 1
 
 # Conclusion
 
@@ -39,6 +39,8 @@ By working with different types of Neural Network models with word embedding ini
 # Run notebook
 
 Download all the files in a folder.
+
+Download train.csv and test.csv data from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
 Download fast text embeddings from https://tinyurl.com/wordtovec.
 
