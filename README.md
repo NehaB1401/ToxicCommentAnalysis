@@ -30,7 +30,7 @@ Three different models tested against this challange were:
 
 Download all the files in a folder.
 
-Download embeddings from https://tinyurl.com/wordtovec.
+Download fast text embeddings from https://tinyurl.com/wordtovec.
 
 Run the notebooks RNN, CNN with word emebedding and CNN with character embedding.
 
