@@ -26,6 +26,11 @@ Three different models tested against this challange were:
 
 Analysis of all the 3 model performances are as shown below:
 
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
+
 Model	    Embeddings	  AUC	        LOS
 RNN	      Word          0.98603	    0.0314 
 CNN     	Word	        0.98488	    0.0616 
