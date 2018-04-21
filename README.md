@@ -29,9 +29,7 @@ Analysis of all the 3 model performances are as shown below:
 Model | Embeddings | AUC | LOS
 --- | --- | --- | ---
 RNN | Word | 0.98603 | 0.0314 
---- | --- | --- | ---
-CNN | Word | 0.98488 | 0.0616 
---- | --- | --- | ---
+CNN | Word | 0.98488 | 0.0616
 CNN | Character | 0.95649 | 0.0875 
 
 # Conclusion
